@@ -3,27 +3,21 @@
 **App:** EyeBlinkIt (20-20-20 eye break reminder) on Google Play and the App Store
 **Developer:** DevEntia Tech
 
-You can delete your EyeBlinkIt account and its data at any time, with or without the app installed.
+## In the app
 
-## Option 1: Delete in the app
+1. Open EyeBlinkIt → **Settings** → **Account & backup**.
+2. Signed in: tap **Delete my account and data**. This permanently deletes your account, your
+   backup and the history on the phone. Not signed in: tap **Delete my data on this phone**.
+3. Confirm with **Delete**. Your reminder settings stay so the app keeps working.
 
-1. Open EyeBlinkIt and go to **Settings**.
-2. Scroll to **Account** and tap **Delete Account** (guest users see **Delete Guest Data**).
-3. Confirm. Your account and all of its data are deleted immediately.
+## Without the app
 
-## Option 2: Request deletion by email (no app needed)
-
-Send an email to **contact@deventiatech.com** with the subject **"Delete my EyeBlinkIt account"** from the email address you signed up with. We will confirm and complete the deletion within 30 days.
+Email **contact@deventiatech.com** with the subject "Delete my EyeBlinkIt account" from the address you
+signed in with. We delete the account and all its backed-up data within 30 days and confirm by
+email.
 
 ## What is deleted
 
-- Your account (name, email address, profile photo link, sign-in method)
-- Your break sessions, daily goal, statistics, streaks and achievements
-- Your timer and notification preferences
-- Your in-app notification history
-
-## What is kept
-
-Nothing tied to your account is kept after deletion, except where the law requires us to keep a record.
-
-Questions: contact@deventiatech.com
+- Your account (account ID, name, email address and sign-in method)
+- Your backup: daily break totals, settings and progress summary
+- Nothing is kept afterwards, except where the law requires us to keep a record of a purchase
