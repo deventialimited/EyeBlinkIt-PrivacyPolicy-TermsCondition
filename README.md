@@ -1,6 +1,6 @@
 # EyeBlinkIt Privacy Policy
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
 ## Who we are
 
@@ -15,7 +15,7 @@ Reminders are scheduled on your phone. We do not use push servers to send them.
 ## What we collect
 
 - Backup (optional): if you back up with Google, Apple or email, we store your account ID, name and email address, your daily break totals and your settings so you can restore them on another phone.
-- Usage analytics (you can turn this off in Settings → Privacy): app events such as onboarding steps, reminders shown and the actions taken on them, plus device model, operating system version, app version and approximate country. We do not collect your advertising ID.
+- Usage analytics (you can turn this off in Settings → Privacy): app events such as onboarding steps, reminders shown and the actions taken on them, plus an app instance ID, device model, operating system version, app version and approximate country. Analytics never use your advertising ID.
 - Crash reports (you can turn this off in Settings → Privacy): technical details about crashes and errors, such as the device model and the code location of the error.
 - Purchases (if you buy Pro): a record that a purchase was made, from Google Play or the App Store through RevenueCat. We never receive your card details.
 

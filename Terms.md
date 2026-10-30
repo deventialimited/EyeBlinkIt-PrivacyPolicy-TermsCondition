@@ -1,6 +1,6 @@
 # EyeBlinkIt Terms of Service
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
 ## Agreement
 
